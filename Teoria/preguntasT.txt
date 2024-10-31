@@ -1,0 +1,211 @@
+1. ¿Cuál de los siguientes es un componente de un problema formalmente definido?
+   A. Espacio de estados del problema
+   B. Algoritmo de búsqueda
+   C. Memoria de trabajo
+   D. Función de evaluación
+   ANSWER: A
+
+2. ¿Qué representa el estado inicial en un problema de búsqueda?
+   A. La meta que el agente intenta alcanzar
+   B. El conjunto de acciones disponibles para el agente
+   C. El punto de partida desde donde el agente comienza la búsqueda
+   D. La función de costo del camino
+   ANSWER: C
+
+3. ¿Qué determina una función objetivo en un problema de búsqueda?
+   A. Los estados iniciales posibles
+   B. Las acciones legales en cada estado
+   C. Si un estado es un estado objetivo
+   D. El costo de cada acción
+   ANSWER: C
+
+4. ¿Qué devuelve una función sucesor en un problema de búsqueda?
+   A. Un conjunto de pares <acción, sucesor>
+   B. El estado objetivo
+   C. El costo del camino
+   D. La profundidad del nodo
+   ANSWER: A
+
+5. ¿Qué mide la función de costo del camino en un problema de búsqueda?
+   A. La cantidad de nodos expandidos
+   B. El número de pasos desde el estado inicial hasta el estado objetivo
+   C. El costo numérico asociado a un camino
+   D. La cantidad de memoria utilizada
+   ANSWER: C
+
+6. ¿Qué tipo de problema se caracteriza por ser totalmente observable?
+   A. Problema conforme
+   B. Problema de estados simples
+   C. Problema de contingencias
+   D. Problema de exploración
+   ANSWER: B
+
+7. ¿Qué caracteriza a un problema de contingencias?
+   A. Es determinista
+   B. Es parcialmente observable
+   C. Tiene un único estado inicial
+   D. Tiene un espacio de estados desconocido
+   ANSWER: B
+
+8. En el ejemplo del robot aspiradora, ¿cuál es el test objetivo?
+   A. Comprobar si el robot está en la cuadrícula A
+   B. Comprobar si todas las cuadrículas están limpias
+   C. Comprobar si el robot ha aspirado la suciedad
+   D. Comprobar si el robot se ha movido a la cuadrícula B
+   ANSWER: B
+
+9. ¿Qué tipo de problema es el 8-Puzzle?
+   A. Problema de exploración
+   B. Problema de estados simples
+   C. Problema de estados múltiples
+   D. Problema de contingencias
+   ANSWER: C
+
+10. ¿Qué estrategia de búsqueda expande primero el nodo raíz y luego sus sucesores?
+    A. Búsqueda en profundidad
+    B. Búsqueda en anchura
+    C. Búsqueda A*
+    D. Búsqueda voraz
+    ANSWER: B
+
+11. ¿Qué mide la complejidad temporal de una estrategia de búsqueda?
+    A. La cantidad de memoria utilizada
+    B. El tiempo necesario para encontrar una solución
+    C. El número de nodos expandidos
+    D. La profundidad del árbol de búsqueda
+    ANSWER: B
+
+12. ¿Cuál es una característica de la búsqueda en profundidad?
+    A. Expande primero los nodos más superficiales
+    B. Utiliza una estructura de cola FIFO
+    C. Puede quedar atrapada en ciclos
+    D. Siempre encuentra la solución óptima
+    ANSWER: C
+
+13. ¿Cuál de las siguientes NO es una estrategia de búsqueda no informada?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Búsqueda de costo uniforme
+    D. Búsqueda A*
+    ANSWER: D
+
+14. ¿Qué estrategia de búsqueda utiliza una heurística para guiar la búsqueda?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Búsqueda de costo uniforme
+    D. Búsqueda A*
+    ANSWER: D
+
+15. ¿Cuál es una propiedad de la heurística admisible?
+    A. Siempre sobrestima el costo real
+    B. Nunca sobrestima el costo real
+    C. No se utiliza en la búsqueda A*
+    D. Siempre encuentra la solución óptima
+    ANSWER: B
+
+16. ¿Qué representa el factor de ramificación (b) en la búsqueda?
+    A. La cantidad de nodos expandidos
+    B. El número de nodos sucesores de un nodo
+    C. La profundidad del árbol de búsqueda
+    D. El costo del camino
+    ANSWER: B
+
+17. ¿Cuál es una característica de la búsqueda de costo uniforme?
+    A. Expande primero los nodos con menor profundidad
+    B. Utiliza una estructura de cola LIFO
+    C. Siempre encuentra la solución óptima
+    D. No considera el costo de las acciones
+    ANSWER: C
+
+18. ¿Qué tipo de nodo representa un nodo hoja en un árbol de búsqueda?
+    A. Un nodo que no tiene sucesores
+    B. Un nodo con el costo de camino más bajo
+    C. Un nodo que está en el estado inicial
+    D. Un nodo que representa la solución óptima
+    ANSWER: A
+
+19. ¿Cuál es una ventaja de la búsqueda en profundidad limitada?
+    A. Siempre encuentra la solución óptima
+    B. Evita quedar atrapada en ciclos
+    C. Utiliza menos memoria que la búsqueda en profundidad
+    D. Expande primero los nodos más superficiales
+    ANSWER: C
+
+20. ¿Cuál es una característica de la búsqueda en profundidad iterativa?
+    A. Utiliza una estructura de cola FIFO
+    B. Combina la búsqueda en anchura y en profundidad
+    C. Siempre encuentra la solución óptima
+    D. No considera el costo de las acciones
+    ANSWER: B
+
+21. ¿Qué estrategia de búsqueda utiliza una cola de prioridad?
+    A. Búsqueda en profundidad
+    B. Búsqueda en anchura
+    C. Búsqueda de costo uniforme
+    D. Búsqueda en profundidad limitada
+    ANSWER: C
+
+22. ¿Cuál es una desventaja de la búsqueda en anchura?
+    A. Utiliza más memoria que la búsqueda en profundidad
+    B. Puede quedar atrapada en ciclos
+    C. No encuentra la solución óptima
+    D. Utiliza una estructura de cola LIFO
+    ANSWER: A
+
+23. ¿Qué mide la complejidad espacial de una estrategia de búsqueda?
+    A. La cantidad de nodos expandidos
+    B. La cantidad de memoria utilizada
+    C. El tiempo necesario para encontrar una solución
+    D. La profundidad del árbol de búsqueda
+    ANSWER: B
+
+24. ¿Cuál de las siguientes es una estrategia de búsqueda local?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Ascensión de colinas
+    D. Búsqueda de costo uniforme
+    ANSWER: C
+
+25. ¿Qué representa el nodo raíz en un árbol de búsqueda?
+    A. El estado objetivo
+    B. El nodo con menor costo de camino
+    C. El estado inicial
+    D. El nodo con mayor profundidad
+    ANSWER: C
+
+26. ¿Qué es la poda α-β en la búsqueda de adversarios?
+    A. Una técnica para reducir el número de nodos expandidos
+    B. Un algoritmo de búsqueda informada
+    C. Una estrategia de búsqueda no informada
+    D. Un método para garantizar la optimalidad
+    ANSWER: A
+
+27. ¿Qué caracteriza a la búsqueda A* en comparación con la búsqueda voraz primero el mejor?
+    A. Utiliza solo la heurística h(n)
+    B. Utiliza la función f(n) = g(n) + h(n)
+    C. No garantiza encontrar la solución óptima
+    D. Expande primero los nodos con menor profundidad
+    ANSWER: B
+
+28. ¿Qué es la función g(n) en la búsqueda A*?
+    A. La estimación del costo restante para alcanzar el objetivo
+    B. El costo del camino desde el estado inicial hasta el nodo n
+    C. La profundidad del nodo en el árbol de búsqueda
+    D. La cantidad de memoria utilizada por el algoritmo
+    ANSWER: B
+
+29. ¿Qué se entiende por consistencia de una heurística en la búsqueda A*?
+    A. La heurística nunca sobrestima el costo real
+    B. La heurística siempre sobrestima el costo real
+    C. La estimación del costo total nunca disminuye a lo largo del camino
+    D. La heurística solo se aplica a problemas de optimización
+    ANSWER: C
+
+30. ¿Qué es una estrategia de búsqueda informada?
+    A. Una estrategia que no
+
+ utiliza heurísticas
+    B. Una estrategia que utiliza información adicional para guiar la búsqueda
+    C. Una estrategia que siempre encuentra la solución óptima
+    D. Una estrategia que expande todos los nodos a la misma profundidad
+    ANSWER: B
