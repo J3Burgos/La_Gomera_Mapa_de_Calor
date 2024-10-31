@@ -1,0 +1,1 @@
+# La_Gomera_Mapa_de_Calor
