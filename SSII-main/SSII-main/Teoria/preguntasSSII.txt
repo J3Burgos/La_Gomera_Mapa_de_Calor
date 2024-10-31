@@ -1,0 +1,1271 @@
+1. ¿Cuál de las siguientes NO es una definición de Inteligencia Artificial?
+   A. Sistemas que piensan como humanos
+   B. Sistemas que actúan racionalmente
+   C. Sistemas que actúan de forma aleatoria
+   D. Sistemas que piensan racionalmente
+   ANSWER: C
+
+2. ¿Qué capacidad debe tener un sistema para pasar la Prueba de Turing?
+   A. Procesamiento del lenguaje natural
+   B. Razonamiento automático
+   C. Aprendizaje automático
+   D. Todas las anteriores
+   ANSWER: D
+
+3. ¿Qué disciplina se encarga de construir teorías sobre cómo funciona la mente humana?
+   A. Neurociencia
+   B. Ciencia cognitiva
+   C. Psicología
+   D. Ingeniería informática
+   ANSWER: B
+
+4. ¿Qué es un agente racional?
+   A. Un agente que actúa con la intención de alcanzar el mejor resultado
+   B. Un agente que siempre actúa de manera predecible
+   C. Un agente que sigue las leyes del pensamiento
+   D. Un agente que no tiene en cuenta su entorno
+   ANSWER: A
+
+5. ¿Qué se evalúa en la Prueba Global de Turing que no se evalúa en la Prueba de Turing original?
+   A. Procesamiento del lenguaje natural
+   B. Representación del conocimiento
+   C. Visión computacional
+   D. Aprendizaje automático
+   ANSWER: C
+
+6. ¿Qué es la prueba de Turing?
+   A. Una prueba para determinar la capacidad de procesamiento de un computador
+   B. Una prueba para evaluar la capacidad de un sistema para aprender de sus errores
+   C. Una prueba para determinar si un sistema puede imitar la conducta humana al punto de ser indistinguible de una persona
+   D. Una prueba para evaluar la velocidad de respuesta de un sistema
+   ANSWER: C
+
+7. ¿Cuál es el enfoque de las "leyes del pensamiento"?
+   A. Sistemas que actúan como humanos
+   B. Sistemas que piensan racionalmente
+   C. Sistemas que actúan racionalmente
+   D. Sistemas que piensan como humanos
+   ANSWER: B
+
+8. ¿Qué significa actuar racionalmente según la Inteligencia Artificial?
+   A. Seguir siempre una lógica estricta
+   B. Realizar el conjunto de acciones que llevan a cumplir un objetivo de la mejor manera posible con el conocimiento disponible
+   C. Tomar decisiones basadas en emociones
+   D. Imitar el comportamiento humano en todas las situaciones
+   ANSWER: B
+
+9. ¿Qué función tiene la ciencia cognitiva en la Inteligencia Artificial?
+   A. Diseñar algoritmos de búsqueda
+   B. Desarrollar hardware para IA
+   C. Construir teorías sobre el funcionamiento de la mente humana
+   D. Implementar sistemas operativos para IA
+   ANSWER: C
+
+10. ¿Cuál es una característica de un agente basado en modelos?
+    A. Actúa únicamente en base a las percepciones actuales
+    B. Mantiene un estado interno que depende de la historia de las percepciones
+    C. Solo puede actuar en entornos totalmente observables
+    D. No utiliza información sobre cómo evoluciona el mundo
+    ANSWER: B
+
+11. ¿Qué representa la función del agente en un sistema de IA?
+    A. La secuencia de acciones que debe tomar el agente
+    B. La percepción del entorno en cada momento
+    C. La relación entre las percepciones y las acciones del agente
+    D. El estado interno del agente
+    ANSWER: C
+
+12. ¿Cuál es la diferencia entre un agente reactivo simple y un agente basado en objetivos?
+    A. El agente reactivo simple utiliza un modelo del mundo
+    B. El agente basado en objetivos solo actúa en entornos estáticos
+    C. El agente reactivo simple toma decisiones solo en base a percepciones actuales
+    D. El agente basado en objetivos no tiene en cuenta las percepciones históricas
+    ANSWER: C
+
+13. ¿Qué caracteriza a un entorno dinámico?
+    A. El entorno cambia mientras el agente está deliberando
+    B. El entorno permanece constante
+    C. El agente tiene información completa del entorno
+    D. El entorno se puede modelar con variables discretas
+    ANSWER: A
+
+14. ¿Cuál es una característica de los entornos episódicos?
+    A. Las decisiones presentes afectan a las decisiones futuras
+    B. Las acciones de un episodio no afectan a los siguientes episodios
+    C. Requieren un alto nivel de deliberación lógica
+    D. Solo pueden ser parcialmente observables
+    ANSWER: B
+
+15. ¿Qué tipo de entorno requiere que el agente tenga sensores precisos para detectar cambios en tiempo real?
+    A. Entorno estático
+    B. Entorno dinámico
+    C. Entorno discreto
+    D. Entorno continuo
+    ANSWER: B
+
+16. ¿Qué es un agente basado en utilidad?
+    A. Un agente que siempre actúa para alcanzar un objetivo específico
+    B. Un agente que toma decisiones basadas en la probabilidad de éxito de diferentes acciones
+    C. Un agente que no considera las consecuencias de sus acciones
+    D. Un agente que opera únicamente en entornos deterministas
+    ANSWER: B
+
+17. ¿Cuál de los siguientes NO es un tipo de agente descrito en los apuntes?
+    A. Agente reactivo simple
+    B. Agente basado en modelos
+    C. Agente aleatorio
+    D. Agente basado en objetivos
+    ANSWER: C
+
+18. ¿Qué debe especificar un entorno de trabajo REAS para un agente racional?
+    A. Reglas, Estados, Acciones, Sensores
+    B. Rendimiento, Entorno, Actuadores, Sensores
+    C. Resultados, Entradas, Actuadores, Salidas
+    D. Respuestas, Ejecuciones, Análisis, Soluciones
+    ANSWER: B
+
+19. ¿Cuál es un ejemplo de una tarea en un entorno secuencial?
+    A. Seleccionar partes defectuosas en una cadena de montaje
+    B. Resolver un crucigrama
+    C. Jugar al ajedrez
+    D. Limpiar una habitación con una aspiradora
+    ANSWER: C
+
+20. ¿Qué describe un agente individual en comparación con un sistema multiagente?
+    A. Un agente que no puede comunicarse con otros agentes
+    B. Un agente que opera en un entorno completamente observable
+    C. Un agente que resuelve problemas de manera independiente
+    D. Un agente que toma decisiones basadas en la conducta de otros agentes
+    ANSWER: C
+
+21. ¿Cuál es una característica de los entornos parcialmente observables?
+    A. El agente tiene acceso completo a toda la información relevante
+    B. El agente debe tomar decisiones con información incompleta
+    C. El entorno no cambia mientras el agente toma decisiones
+    D. El agente puede prever todas las posibles consecuencias de sus acciones
+    ANSWER: B
+
+22. ¿Cuál es la ventaja de utilizar agentes basados en objetivos?
+    A. Siempre actúan de manera óptima
+    B. Pueden tomar decisiones sin información del estado actual
+    C. Utilizan un estado interno para reflejar aspectos no observables del estado actual
+    D. Pueden planificar acciones a largo plazo para alcanzar metas específicas
+    ANSWER: D
+
+23. ¿Qué es la racionalidad limitada?
+    A. La capacidad de un agente para actuar perfectamente en entornos complejos
+    B. La limitación de tiempo y recursos en la toma de decisiones del agente
+    C. La capacidad de un agente para imitar perfectamente el comportamiento humano
+    D. La restricción de un agente a entornos totalmente observables
+    ANSWER: B
+
+24. ¿Cuál es la función principal de la representación del conocimiento en la IA?
+    A. Almacenar lo que el sistema conoce
+    B. Mejorar la velocidad de procesamiento del sistema
+    C. Facilitar la interacción física entre el evaluador y el computador
+    D. Detectar patrones en datos sin procesar
+    ANSWER: A
+
+25. ¿Qué se entiende por percepción en el contexto de un agente inteligente?
+    A. La capacidad de actuar en un entorno específico
+    B. La habilidad de recibir entradas sensoriales del entorno
+    C. La capacidad de almacenar y recuperar información
+    D. La habilidad de aprender de experiencias pasadas
+    ANSWER: B
+
+26. ¿Qué es un agente basado en utilidad?
+    A. Un agente que solo considera las percepciones actuales para tomar decisiones
+    B. Un agente que utiliza una función de utilidad para evaluar la mejor acción
+    C. Un agente que no tiene en cuenta los objetivos específicos
+    D. Un agente que actúa aleatoriamente para obtener resultados esperados
+    ANSWER: B
+
+27. ¿Qué es la prueba de Turing?
+    A. Una prueba que mide la capacidad de un sistema para realizar cálculos matemáticos complejos
+    B. Una prueba que determina si un sistema puede replicar el comportamiento humano
+    C. Una prueba que evalúa la rapidez con la que un sistema responde a estímulos
+    D. Una prueba que verifica la capacidad de un sistema para aprender nuevas tareas
+    ANSWER: B
+
+28. ¿Cuál de los siguientes NO es un componente de un agente racional?
+    A. Sensores
+    B. Actuadores
+    C. Percepción
+    D. Módulo de aleatoriedad
+    ANSWER: D
+
+29. ¿Qué tipo
+
+ de entorno se caracteriza por tener estados y acciones continuos?
+    A. Entorno discreto
+    B. Entorno estático
+    C. Entorno dinámico
+    D. Entorno continuo
+    ANSWER: D
+
+30. ¿Qué es un agente reactivo basado en modelos?
+    A. Un agente que actúa en base a reglas predefinidas sin considerar el estado interno
+    B. Un agente que mantiene un estado interno que refleja la historia de las percepciones
+    C. Un agente que toma decisiones aleatorias
+    D. Un agente que no utiliza información sobre cómo evoluciona el mundo
+    ANSWER: B
+
+1. ¿Cuál de los siguientes es un componente de un problema formalmente definido?
+   A. Espacio de estados del problema
+   B. Algoritmo de búsqueda
+   C. Memoria de trabajo
+   D. Función de evaluación
+   ANSWER: A
+
+2. ¿Qué representa el estado inicial en un problema de búsqueda?
+   A. La meta que el agente intenta alcanzar
+   B. El conjunto de acciones disponibles para el agente
+   C. El punto de partida desde donde el agente comienza la búsqueda
+   D. La función de costo del camino
+   ANSWER: C
+
+3. ¿Qué determina una función objetivo en un problema de búsqueda?
+   A. Los estados iniciales posibles
+   B. Las acciones legales en cada estado
+   C. Si un estado es un estado objetivo
+   D. El costo de cada acción
+   ANSWER: C
+
+4. ¿Qué devuelve una función sucesor en un problema de búsqueda?
+   A. Un conjunto de pares <acción, sucesor>
+   B. El estado objetivo
+   C. El costo del camino
+   D. La profundidad del nodo
+   ANSWER: A
+
+5. ¿Qué mide la función de costo del camino en un problema de búsqueda?
+   A. La cantidad de nodos expandidos
+   B. El número de pasos desde el estado inicial hasta el estado objetivo
+   C. El costo numérico asociado a un camino
+   D. La cantidad de memoria utilizada
+   ANSWER: C
+
+6. ¿Qué tipo de problema se caracteriza por ser totalmente observable?
+   A. Problema conforme
+   B. Problema de estados simples
+   C. Problema de contingencias
+   D. Problema de exploración
+   ANSWER: B
+
+7. ¿Qué caracteriza a un problema de contingencias?
+   A. Es determinista
+   B. Es parcialmente observable
+   C. Tiene un único estado inicial
+   D. Tiene un espacio de estados desconocido
+   ANSWER: B
+
+8. En el ejemplo del robot aspiradora, ¿cuál es el test objetivo?
+   A. Comprobar si el robot está en la cuadrícula A
+   B. Comprobar si todas las cuadrículas están limpias
+   C. Comprobar si el robot ha aspirado la suciedad
+   D. Comprobar si el robot se ha movido a la cuadrícula B
+   ANSWER: B
+
+9. ¿Qué tipo de problema es el 8-Puzzle?
+   A. Problema de exploración
+   B. Problema de estados simples
+   C. Problema de estados múltiples
+   D. Problema de contingencias
+   ANSWER: C
+
+10. ¿Qué estrategia de búsqueda expande primero el nodo raíz y luego sus sucesores?
+    A. Búsqueda en profundidad
+    B. Búsqueda en anchura
+    C. Búsqueda A*
+    D. Búsqueda voraz
+    ANSWER: B
+
+11. ¿Qué mide la complejidad temporal de una estrategia de búsqueda?
+    A. La cantidad de memoria utilizada
+    B. El tiempo necesario para encontrar una solución
+    C. El número de nodos expandidos
+    D. La profundidad del árbol de búsqueda
+    ANSWER: B
+
+12. ¿Cuál es una característica de la búsqueda en profundidad?
+    A. Expande primero los nodos más superficiales
+    B. Utiliza una estructura de cola FIFO
+    C. Puede quedar atrapada en ciclos
+    D. Siempre encuentra la solución óptima
+    ANSWER: C
+
+13. ¿Cuál de las siguientes NO es una estrategia de búsqueda no informada?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Búsqueda de costo uniforme
+    D. Búsqueda A*
+    ANSWER: D
+
+14. ¿Qué estrategia de búsqueda utiliza una heurística para guiar la búsqueda?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Búsqueda de costo uniforme
+    D. Búsqueda A*
+    ANSWER: D
+
+15. ¿Cuál es una propiedad de la heurística admisible?
+    A. Siempre sobrestima el costo real
+    B. Nunca sobrestima el costo real
+    C. No se utiliza en la búsqueda A*
+    D. Siempre encuentra la solución óptima
+    ANSWER: B
+
+16. ¿Qué representa el factor de ramificación (b) en la búsqueda?
+    A. La cantidad de nodos expandidos
+    B. El número de nodos sucesores de un nodo
+    C. La profundidad del árbol de búsqueda
+    D. El costo del camino
+    ANSWER: B
+
+17. ¿Cuál es una característica de la búsqueda de costo uniforme?
+    A. Expande primero los nodos con menor profundidad
+    B. Utiliza una estructura de cola LIFO
+    C. Siempre encuentra la solución óptima
+    D. No considera el costo de las acciones
+    ANSWER: C
+
+18. ¿Qué tipo de nodo representa un nodo hoja en un árbol de búsqueda?
+    A. Un nodo que no tiene sucesores
+    B. Un nodo con el costo de camino más bajo
+    C. Un nodo que está en el estado inicial
+    D. Un nodo que representa la solución óptima
+    ANSWER: A
+
+19. ¿Cuál es una ventaja de la búsqueda en profundidad limitada?
+    A. Siempre encuentra la solución óptima
+    B. Evita quedar atrapada en ciclos
+    C. Utiliza menos memoria que la búsqueda en profundidad
+    D. Expande primero los nodos más superficiales
+    ANSWER: C
+
+20. ¿Cuál es una característica de la búsqueda en profundidad iterativa?
+    A. Utiliza una estructura de cola FIFO
+    B. Combina la búsqueda en anchura y en profundidad
+    C. Siempre encuentra la solución óptima
+    D. No considera el costo de las acciones
+    ANSWER: B
+
+21. ¿Qué estrategia de búsqueda utiliza una cola de prioridad?
+    A. Búsqueda en profundidad
+    B. Búsqueda en anchura
+    C. Búsqueda de costo uniforme
+    D. Búsqueda en profundidad limitada
+    ANSWER: C
+
+22. ¿Cuál es una desventaja de la búsqueda en anchura?
+    A. Utiliza más memoria que la búsqueda en profundidad
+    B. Puede quedar atrapada en ciclos
+    C. No encuentra la solución óptima
+    D. Utiliza una estructura de cola LIFO
+    ANSWER: A
+
+23. ¿Qué mide la complejidad espacial de una estrategia de búsqueda?
+    A. La cantidad de nodos expandidos
+    B. La cantidad de memoria utilizada
+    C. El tiempo necesario para encontrar una solución
+    D. La profundidad del árbol de búsqueda
+    ANSWER: B
+
+24. ¿Cuál de las siguientes es una estrategia de búsqueda local?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Ascensión de colinas
+    D. Búsqueda de costo uniforme
+    ANSWER: C
+
+25. ¿Qué representa el nodo raíz en un árbol de búsqueda?
+    A. El estado objetivo
+    B. El nodo con menor costo de camino
+    C. El estado inicial
+    D. El nodo con mayor profundidad
+    ANSWER: C
+
+26. ¿Qué es la poda α-β en la búsqueda de adversarios?
+    A. Una técnica para reducir el número de nodos expandidos
+    B. Un algoritmo de búsqueda informada
+    C. Una estrategia de búsqueda no informada
+    D. Un método para garantizar la optimalidad
+    ANSWER: A
+
+27. ¿Qué caracteriza a la búsqueda A* en comparación con la búsqueda voraz primero el mejor?
+    A. Utiliza solo la heurística h(n)
+    B. Utiliza la función f(n) = g(n) + h(n)
+    C. No garantiza encontrar la solución óptima
+    D. Expande primero los nodos con menor profundidad
+    ANSWER: B
+
+28. ¿Qué es la función g(n) en la búsqueda A*?
+    A. La estimación del costo restante para alcanzar el objetivo
+    B. El costo del camino desde el estado inicial hasta el nodo n
+    C. La profundidad del nodo en el árbol de búsqueda
+    D. La cantidad de memoria utilizada por el algoritmo
+    ANSWER: B
+
+29. ¿Qué se entiende por consistencia de una heurística en la búsqueda A*?
+    A. La heurística nunca sobrestima el costo real
+    B. La heurística siempre sobrestima el costo real
+    C. La estimación del costo total nunca disminuye a lo largo del camino
+    D. La heurística solo se aplica a problemas de optimización
+    ANSWER: C
+
+30. ¿Qué es una estrategia de búsqueda informada?
+    A. Una estrategia que no
+
+ utiliza heurísticas
+    B. Una estrategia que utiliza información adicional para guiar la búsqueda
+    C. Una estrategia que siempre encuentra la solución óptima
+    D. Una estrategia que expande todos los nodos a la misma profundidad
+    ANSWER: B
+
+1. ¿Qué es una heurística en el contexto de la búsqueda informada?
+   A. Una regla para seleccionar nodos a expandir sin utilizar información adicional
+   B. Una función que estima el costo restante para alcanzar el objetivo
+   C. Una técnica para reducir el tiempo de ejecución de un algoritmo
+   D. Una estructura de datos para almacenar nodos expandidos
+   ANSWER: B
+
+2. ¿Qué propiedad debe tener una heurística para que la búsqueda A* sea óptima?
+   A. Debe ser admisible
+   B. Debe sobrestimar el costo real
+   C. Debe ser consistente
+   D. Debe subestimar el costo real
+   ANSWER: A
+
+3. ¿Qué estrategia de búsqueda utiliza una heurística para guiar la búsqueda hacia el objetivo?
+   A. Búsqueda en anchura
+   B. Búsqueda en profundidad
+   C. Búsqueda A*
+   D. Búsqueda de costo uniforme
+   ANSWER: C
+
+4. ¿Qué es la heurística h(n) en la búsqueda A*?
+   A. El costo del camino desde el estado inicial hasta el nodo n
+   B. La profundidad del nodo en el árbol de búsqueda
+   C. La estimación del costo restante para alcanzar el objetivo
+   D. La cantidad de memoria utilizada por el algoritmo
+   ANSWER: C
+
+5. ¿Qué es la función f(n) en la búsqueda A*?
+   A. La suma del costo del camino hasta el nodo n y la heurística h(n)
+   B. La profundidad del nodo en el árbol de búsqueda
+   C. La estimación del costo total desde el estado inicial hasta el objetivo
+   D. La cantidad de nodos expandidos por el algoritmo
+   ANSWER: A
+
+6. ¿Qué caracteriza a una heurística consistente?
+   A. Nunca sobrestima el costo real
+   B. Siempre sobrestima el costo real
+   C. La estimación del costo total nunca disminuye a lo largo del camino
+   D. La heurística solo se aplica a problemas de optimización
+   ANSWER: C
+
+7. ¿Qué es la búsqueda voraz primero el mejor?
+   A. Una estrategia que expande los nodos con menor costo acumulado
+   B. Una estrategia que expande los nodos más prometedores según la heurística
+   C. Una estrategia que combina la búsqueda en anchura y en profundidad
+   D. Una estrategia que garantiza encontrar la solución óptima
+   ANSWER: B
+
+8. ¿Cuál es la principal diferencia entre la búsqueda voraz primero el mejor y la búsqueda A*?
+   A. La búsqueda voraz utiliza f(n) = g(n) + h(n)
+   B. La búsqueda A* utiliza solo la heurística h(n)
+   C. La búsqueda voraz utiliza solo la heurística h(n)
+   D. La búsqueda A* no es óptima
+   ANSWER: C
+
+9. ¿Qué propiedad asegura que una heurística admisible no sobrestima el costo real?
+   A. Admisibilidad
+   B. Consistencia
+   C. Optimalidad
+   D. Completitud
+   ANSWER: A
+
+10. ¿Qué técnica se utiliza para evitar la expansión de nodos innecesarios en la búsqueda A*?
+    A. Búsqueda en profundidad limitada
+    B. Poda α-β
+    C. Memorización
+    D. Poda de ramas irrelevantes
+    ANSWER: C
+
+11. ¿Qué es la búsqueda de costo uniforme?
+    A. Una estrategia que expande primero los nodos con menor profundidad
+    B. Una estrategia que expande primero los nodos con menor costo acumulado
+    C. Una estrategia que expande primero los nodos más prometedores según la heurística
+    D. Una estrategia que garantiza encontrar la solución óptima
+    ANSWER: B
+
+12. ¿Qué mide la función de costo del camino g(n) en la búsqueda A*?
+    A. La estimación del costo restante para alcanzar el objetivo
+    B. La cantidad de nodos expandidos
+    C. El costo del camino desde el estado inicial hasta el nodo n
+    D. La cantidad de memoria utilizada por el algoritmo
+    ANSWER: C
+
+13. ¿Qué técnica de búsqueda local intenta mejorar iterativamente una solución mediante pequeños cambios?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Ascensión de colinas
+    D. Búsqueda de costo uniforme
+    ANSWER: C
+
+14. ¿Qué técnica de búsqueda local se inspira en el proceso de enfriamiento de metales?
+    A. Algoritmos genéticos
+    B. Enfriamiento simulado
+    C. Búsqueda en anchura
+    D. Búsqueda en profundidad
+    ANSWER: B
+
+15. ¿Qué técnica de búsqueda local utiliza la combinación y variación de soluciones para encontrar una mejor?
+    A. Algoritmos genéticos
+    B. Enfriamiento simulado
+    C. Búsqueda en profundidad iterativa
+    D. Búsqueda en anchura
+    ANSWER: A
+
+16. ¿Qué propiedad debe tener una heurística para ser útil en la búsqueda informada?
+    A. Debe ser fácil de calcular
+    B. Debe ser siempre exacta
+    C. Debe proporcionar una buena estimación del costo restante
+    D. Debe ser consistente
+    ANSWER: C
+
+17. ¿Cuál es una ventaja de la búsqueda A* sobre la búsqueda en anchura?
+    A. Utiliza menos memoria
+    B. Siempre encuentra la solución óptima
+    C. Expande menos nodos al utilizar una heurística
+    D. Es más fácil de implementar
+    ANSWER: C
+
+18. ¿Qué es la búsqueda de haz local?
+    A. Una estrategia que expande solo los mejores nodos en cada nivel
+    B. Una estrategia que utiliza múltiples trayectorias simultáneamente
+    C. Una estrategia que expande todos los nodos a la misma profundidad
+    D. Una estrategia que garantiza encontrar la solución óptima
+    ANSWER: B
+
+19. ¿Cuál de las siguientes es una técnica para mejorar la búsqueda en profundidad?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad iterativa
+    C. Poda α-β
+    D. Memorización
+    ANSWER: B
+
+20. ¿Qué es la búsqueda local con memoria?
+    A. Una técnica que utiliza una estructura de datos para evitar ciclos
+    B. Una técnica que utiliza múltiples trayectorias simultáneamente
+    C. Una técnica que expande solo los mejores nodos en cada nivel
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+21. ¿Qué es un problema de satisfacción de restricciones (CSP)?
+    A. Un problema que requiere encontrar una secuencia de acciones
+    B. Un problema que requiere asignar valores a variables bajo ciertas restricciones
+    C. Un problema que utiliza una heurística para guiar la búsqueda
+    D. Un problema que requiere minimizar el costo de una solución
+    ANSWER: B
+
+22. ¿Cuál es una técnica para resolver problemas de satisfacción de restricciones?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Backtracking
+    D. Poda α-β
+    ANSWER: C
+
+23. ¿Qué es la heurística de mínimos conflictos en CSP?
+    A. Una técnica que selecciona el valor que viola menos restricciones
+    B. Una técnica que utiliza una estructura de datos para evitar ciclos
+    C. Una técnica que expande solo los mejores nodos en cada nivel
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+24. ¿Qué es la consistencia de arcos en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+25. ¿Cuál es una técnica de búsqueda para problemas con múltiples soluciones posibles?
+    A. Búsqueda en profundidad
+    B. Búsqueda en anchura
+    C. Búsqueda de costo uniforme
+    D. Búsqueda de haz local
+    ANSWER: D
+
+26. ¿Qué técnica se utiliza para mantener los valores legales para variables no asignadas en un CSP?
+    A. Backtracking
+    B. Poda α-β
+    C. Comprobación hacia delante
+    D. Algoritmos genéticos
+    ANSWER: C
+
+27. ¿Cuál es una desventaja de la técnica de backtracking en CSP?
+    A. No garantiza encontrar la solución óptima
+    B. Puede quedar atrapada en ciclos
+    C. No utiliza heurísticas
+    D. Utiliza mucha memoria
+    ANSWER: B
+
+28. ¿Qué es la técnica de poda en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER
+
+: A
+
+29. ¿Cuál es una característica de la búsqueda en anchura en CSP?
+    A. Expande primero los nodos con menor profundidad
+    B. Utiliza una estructura de cola FIFO
+    C. Expande todos los nodos a la misma profundidad antes de pasar al siguiente nivel
+    D. Siempre encuentra la solución óptima
+    ANSWER: C
+
+30. ¿Qué técnica de búsqueda local intenta mejorar iterativamente una solución mediante pequeños cambios?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Ascensión de colinas
+    D. Búsqueda de costo uniforme
+    ANSWER: C
+
+1. ¿Qué es un problema de satisfacción de restricciones (CSP)?
+   A. Un problema que requiere encontrar una secuencia de acciones
+   B. Un problema que requiere asignar valores a variables bajo ciertas restricciones
+   C. Un problema que utiliza una heurística para guiar la búsqueda
+   D. Un problema que requiere minimizar el costo de una solución
+   ANSWER: B
+
+2. ¿Cuál es un ejemplo de una restricción unaria en CSP?
+   A. SA ≠ WA
+   B. Todos los valores de una variable deben ser diferentes
+   C. Una variable no puede tomar el valor verde
+   D. O + O = R + 10X1
+   ANSWER: C
+
+3. ¿Qué técnica se utiliza para mantener los valores legales para variables no asignadas en CSP?
+   A. Propagación de restricciones
+   B. Backtracking
+   C. Comprobación hacia delante
+   D. Heurística de grados
+   ANSWER: C
+
+4. ¿Qué es la consistencia de arcos en CSP?
+   A. Una técnica que reduce el dominio de las variables
+   B. Una técnica que selecciona el valor que viola menos restricciones
+   C. Una técnica que utiliza una estructura de datos para evitar ciclos
+   D. Una técnica que garantiza encontrar la solución óptima
+   ANSWER: A
+
+5. ¿Cuál es una técnica para resolver problemas de satisfacción de restricciones?
+   A. Búsqueda en anchura
+   B. Búsqueda en profundidad
+   C. Backtracking
+   D. Poda α-β
+   ANSWER: C
+
+6. ¿Qué es la heurística de mínimos conflictos en CSP?
+   A. Una técnica que selecciona el valor que viola menos restricciones
+   B. Una técnica que utiliza una estructura de datos para evitar ciclos
+   C. Una técnica que expande solo los mejores nodos en cada nivel
+   D. Una técnica que garantiza encontrar la solución óptima
+   ANSWER: A
+
+7. ¿Qué es la poda en CSP?
+   A. Una técnica que reduce el dominio de las variables
+   B. Una técnica que selecciona el valor que viola menos restricciones
+   C. Una técnica que utiliza una estructura de datos para evitar ciclos
+   D. Una técnica que garantiza encontrar la solución óptima
+   ANSWER: A
+
+8. ¿Qué es la consistencia de arcos en CSP?
+   A. Una técnica que reduce el dominio de las variables
+   B. Una técnica que selecciona el valor que viola menos restricciones
+   C. Una técnica que utiliza una estructura de datos para evitar ciclos
+   D. Una técnica que garantiza encontrar la solución óptima
+   ANSWER: A
+
+9. ¿Cuál de los siguientes NO es un tipo de problema CSP?
+   A. Problemas de estados simples
+   B. Problemas conformes
+   C. Problemas con contingencias
+   D. Problemas de exploración
+   ANSWER: A
+
+10. ¿Qué es la técnica de backtracking en CSP?
+    A. Una técnica que selecciona el valor que viola menos restricciones
+    B. Una técnica que utiliza una estructura de datos para evitar ciclos
+    C. Una técnica que expande solo los mejores nodos en cada nivel
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: B
+
+11. ¿Qué es la técnica de consistencia en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+12. ¿Cuál es una desventaja de la técnica de backtracking en CSP?
+    A. No garantiza encontrar la solución óptima
+    B. Puede quedar atrapada en ciclos
+    C. No utiliza heurísticas
+    D. Utiliza mucha memoria
+    ANSWER: B
+
+13. ¿Qué técnica se utiliza para mantener los valores legales para variables no asignadas en un CSP?
+    A. Backtracking
+    B. Poda α-β
+    C. Comprobación hacia delante
+    D. Algoritmos genéticos
+    ANSWER: C
+
+14. ¿Qué es la técnica de poda en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+15. ¿Qué es la consistencia de arcos en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+16. ¿Cuál de los siguientes es un tipo de problema CSP?
+    A. Problemas de estados simples
+    B. Problemas conformes
+    C. Problemas con contingencias
+    D. Problemas de exploración
+    ANSWER: B
+
+17. ¿Qué técnica se utiliza para resolver problemas de satisfacción de restricciones?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Backtracking
+    D. Poda α-β
+    ANSWER: C
+
+18. ¿Qué es la heurística de mínimos conflictos en CSP?
+    A. Una técnica que selecciona el valor que viola menos restricciones
+    B. Una técnica que utiliza una estructura de datos para evitar ciclos
+    C. Una técnica que expande solo los mejores nodos en cada nivel
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+19. ¿Qué es la poda en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+20. ¿Qué es la consistencia de arcos en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+21. ¿Cuál es una desventaja de la técnica de backtracking en CSP?
+    A. No garantiza encontrar la solución óptima
+    B. Puede quedar atrapada en ciclos
+    C. No utiliza heurísticas
+    D. Utiliza mucha memoria
+    ANSWER: B
+
+22. ¿Qué es la técnica de consistencia en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+23. ¿Cuál de los siguientes es un tipo de problema CSP?
+    A. Problemas de estados simples
+    B. Problemas conformes
+    C. Problemas con contingencias
+    D. Problemas de exploración
+    ANSWER: B
+
+24. ¿Qué técnica se utiliza para mantener los valores legales para variables no asignadas en un CSP?
+    A. Backtracking
+    B. Poda α-β
+    C. Comprobación hacia delante
+    D. Algoritmos genéticos
+    ANSWER: C
+
+25. ¿Qué es la técnica de poda en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+26. ¿Qué es la consistencia de arcos en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+27. ¿Cuál de los siguientes es un tipo de problema CSP?
+    A. Problemas de estados simples
+    B. Problemas conformes
+    C. Problemas con contingencias
+    D. Problemas de exploración
+    ANSWER: B
+
+28. ¿Qué técnica se utiliza para resolver problemas de satisfacción de restricciones?
+    A. Búsqueda en anchura
+    B. Búsqueda en profundidad
+    C. Backtracking
+    D. Poda α-β
+    ANSWER: C
+
+29. ¿Qué es la heurística de
+
+ mínimos conflictos en CSP?
+    A. Una técnica que selecciona el valor que viola menos restricciones
+    B. Una técnica que utiliza una estructura de datos para evitar ciclos
+    C. Una técnica que expande solo los mejores nodos en cada nivel
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+30. ¿Qué es la poda en CSP?
+    A. Una técnica que reduce el dominio de las variables
+    B. Una técnica que selecciona el valor que viola menos restricciones
+    C. Una técnica que utiliza una estructura de datos para evitar ciclos
+    D. Una técnica que garantiza encontrar la solución óptima
+    ANSWER: A
+
+1. ¿Qué es la estrategia MINMAX en juegos de dos jugadores?
+   A. Minimizar las pérdidas para ambos jugadores
+   B. Maximizar el puntaje del jugador MIN
+   C. Minimizar las pérdidas del jugador MAX
+   D. Maximizar el puntaje del jugador MAX y minimizar el del oponente
+   ANSWER: D
+
+2. ¿Qué técnica se utiliza para reducir el número de nodos examinados en la búsqueda MINMAX?
+   A. Búsqueda A*
+   B. Poda α-β
+   C. Búsqueda voraz
+   D. Algoritmos genéticos
+   ANSWER: B
+
+3. En el juego de tres en raya, ¿qué representa un nodo hoja en el árbol de juego?
+   A. Un estado inicial del juego
+   B. Un estado objetivo del juego
+   C. Un movimiento intermedio
+   D. Un estado no alcanzable
+   ANSWER: B
+
+4. ¿Cuál es el objetivo de la poda α-β en la búsqueda MINMAX?
+   A. Aumentar el número de nodos expandidos
+   B. Reducir el número de nodos examinados
+   C. Garantizar la solución óptima
+   D. Mejorar la precisión de la heurística
+   ANSWER: B
+
+5. ¿Qué se busca maximizar en la estrategia MINMAX?
+   A. La cantidad de nodos expandidos
+   B. El puntaje del jugador MIN
+   C. El puntaje del jugador MAX
+   D. La cantidad de memoria utilizada
+   ANSWER: C
+
+6. ¿Qué es un nodo MAX en el árbol de juego?
+   A. Un nodo que representa el turno del jugador MAX
+   B. Un nodo que representa el turno del jugador MIN
+   C. Un nodo que tiene el menor puntaje posible
+   D. Un nodo que tiene el puntaje más alto posible
+   ANSWER: A
+
+7. ¿Cuál es una característica de los juegos de suma cero?
+   A. La ganancia de un jugador es igual a la pérdida del otro jugador
+   B. Ambos jugadores pueden ganar al mismo tiempo
+   C. Ambos jugadores pueden perder al mismo tiempo
+   D. La ganancia de un jugador no afecta al otro jugador
+   ANSWER: A
+
+8. ¿Qué representa la función de utilidad en la búsqueda MINMAX?
+   A. La cantidad de nodos expandidos
+   B. El puntaje de un estado del juego
+   C. El costo del camino en un problema de búsqueda
+   D. La cantidad de memoria utilizada
+   ANSWER: B
+
+9. ¿Qué se busca minimizar en la estrategia MINMAX?
+   A. El puntaje del jugador MIN
+   B. El puntaje del jugador MAX
+   C. La cantidad de nodos expandidos
+   D. La cantidad de memoria utilizada
+   ANSWER: A
+
+10. ¿Qué es un nodo MIN en el árbol de juego?
+    A. Un nodo que representa el turno del jugador MIN
+    B. Un nodo que representa el turno del jugador MAX
+    C. Un nodo que tiene el menor puntaje posible
+    D. Un nodo que tiene el puntaje más alto posible
+    ANSWER: A
+
+11. ¿Cuál es una ventaja de la poda α-β sobre la búsqueda MINMAX sin poda?
+    A. Utiliza menos memoria
+    B. Siempre encuentra la solución óptima
+    C. Expande menos nodos
+    D. Es más fácil de implementar
+    ANSWER: C
+
+12. ¿Qué representa un nodo hoja en un árbol de juego?
+    A. Un estado del juego donde ya no hay más movimientos posibles
+    B. Un estado del juego donde es el turno del jugador MAX
+    C. Un estado del juego donde es el turno del jugador MIN
+    D. Un estado del juego donde ambos jugadores han ganado
+    ANSWER: A
+
+13. ¿Cuál es el objetivo de la estrategia MINMAX en juegos de dos jugadores?
+    A. Minimizar las pérdidas para ambos jugadores
+    B. Maximizar el puntaje del jugador MIN
+    C. Minimizar las pérdidas del jugador MAX
+    D. Maximizar el puntaje del jugador MAX y minimizar el del oponente
+    ANSWER: D
+
+14. ¿Qué técnica se utiliza para reducir el número de nodos examinados en la búsqueda MINMAX?
+    A. Búsqueda A*
+    B. Poda α-β
+    C. Búsqueda voraz
+    D. Algoritmos genéticos
+    ANSWER: B
+
+15. En el juego de tres en raya, ¿qué representa un nodo hoja en el árbol de juego?
+    A. Un estado inicial del juego
+    B. Un estado objetivo del juego
+    C. Un movimiento intermedio
+    D. Un estado no alcanzable
+    ANSWER: B
+
+16. ¿Cuál es el objetivo de la poda α-β en la búsqueda MINMAX?
+    A. Aumentar el número de nodos expandidos
+    B. Reducir el número de nodos examinados
+    C. Garantizar la solución óptima
+    D. Mejorar la precisión de la heurística
+    ANSWER: B
+
+17. ¿Qué se busca maximizar en la estrategia MINMAX?
+    A. La cantidad de nodos expandidos
+    B. El puntaje del jugador MIN
+    C. El puntaje del jugador MAX
+    D. La cantidad de memoria utilizada
+    ANSWER: C
+
+18. ¿Qué es un nodo MAX en el árbol de juego?
+    A. Un nodo que representa el turno del jugador MAX
+    B. Un nodo que representa el turno del jugador MIN
+    C. Un nodo que tiene el menor puntaje posible
+    D. Un nodo que tiene el puntaje más alto posible
+    ANSWER: A
+
+19. ¿Cuál es una característica de los juegos de suma cero?
+    A. La ganancia de un jugador es igual a la pérdida del otro jugador
+    B. Ambos jugadores pueden ganar al mismo tiempo
+    C. Ambos jugadores pueden perder al mismo tiempo
+    D. La ganancia de un jugador no afecta al otro jugador
+    ANSWER: A
+
+20. ¿Qué representa la función de utilidad en la búsqueda MINMAX?
+    A. La cantidad de nodos expandidos
+    B. El puntaje de un estado del juego
+    C. El costo del camino en un problema de búsqueda
+    D. La cantidad de memoria utilizada
+    ANSWER: B
+
+21. ¿Qué se busca minimizar en la estrategia MINMAX?
+    A. El puntaje del jugador MIN
+    B. El puntaje del jugador MAX
+    C. La cantidad de nodos expandidos
+    D. La cantidad de memoria utilizada
+    ANSWER: A
+
+22. ¿Qué es un nodo MIN en el árbol de juego?
+    A. Un nodo que representa el turno del jugador MIN
+    B. Un nodo que representa el turno del jugador MAX
+    C. Un nodo que tiene el menor puntaje posible
+    D. Un nodo que tiene el puntaje más alto posible
+    ANSWER: A
+
+23. ¿Cuál es una ventaja de la poda α-β sobre la búsqueda MINMAX sin poda?
+    A. Utiliza menos memoria
+    B. Siempre encuentra la solución óptima
+    C. Expande menos nodos
+    D. Es más fácil de implementar
+    ANSWER: C
+
+24. ¿Qué representa un nodo hoja en un árbol de juego?
+    A. Un estado del juego donde ya no hay más movimientos posibles
+    B. Un estado del juego donde es el turno del jugador MAX
+    C. Un estado del juego donde es el turno del jugador MIN
+    D. Un estado del juego donde ambos jugadores han ganado
+    ANSWER: A
+
+25. ¿Cuál es el objetivo de la estrategia MINMAX en juegos de dos jugadores?
+    A. Minimizar las pérdidas para ambos jugadores
+    B. Maximizar el puntaje del jugador MIN
+    C. Minimizar las pérdidas del jugador MAX
+    D. Maximizar el puntaje del jugador MAX y minimizar el del oponente
+    ANSWER: D
+
+26. ¿Qué técnica se utiliza para reducir el número de nodos examinados en la búsqueda MINMAX?
+    A. Búsqueda A*
+    B. Poda α-β
+    C. Búsqueda voraz
+    D. Algoritmos genéticos
+    ANSWER: B
+
+27. En el juego de tres en raya, ¿qué representa un nodo hoja en el árbol de juego?
+    A. Un estado inicial del juego
+    B. Un estado objetivo del juego
+    C. Un movimiento intermedio
+    D. Un estado no alcanzable
+    ANSWER: B
+
+28. ¿Cuál es el objetivo de la poda α-β en la búsqueda MINMAX?
+    A. Aumentar el número de nodos expandidos
+    B. Reducir el número de nodos examinados
+    C. Garantizar
+
+ la solución óptima
+    D. Mejorar la precisión de la heurística
+    ANSWER: B
+
+29. ¿Qué se busca maximizar en la estrategia MINMAX?
+    A. La cantidad de nodos expandidos
+    B. El puntaje del jugador MIN
+    C. El puntaje del jugador MAX
+    D. La cantidad de memoria utilizada
+    ANSWER: C
+
+30. ¿Qué es un nodo MAX en el árbol de juego?
+    A. Un nodo que representa el turno del jugador MAX
+    B. Un nodo que representa el turno del jugador MIN
+    C. Un nodo que tiene el menor puntaje posible
+    D. Un nodo que tiene el puntaje más alto posible
+    ANSWER: A
+
+1. ¿Qué es el aprendizaje por refuerzo?
+   A. Un método de aprendizaje supervisado basado en ejemplos etiquetados.
+   B. Un método de aprendizaje no supervisado basado en la detección de patrones.
+   C. Un método de aprendizaje en el que un agente aprende a través de recompensas y castigos.
+   D. Un método de aprendizaje que no requiere ningún tipo de retroalimentación.
+   ANSWER: C
+
+2. ¿Qué representa una política óptima en un proceso de decisión de Markov (MDP)?
+   A. Una política que minimiza el número de acciones.
+   B. Una política que maximiza la recompensa total esperada.
+   C. Una política que minimiza el tiempo de cómputo.
+   D. Una política que maximiza la exploración.
+   ANSWER: B
+
+3. En el aprendizaje por refuerzo, ¿qué se entiende por "exploración"?
+   A. Ejecutar la acción que maximiza la recompensa esperada basada en el conocimiento actual.
+   B. Ejecutar acciones aleatorias para obtener más información sobre el entorno.
+   C. Seguir siempre una política fija.
+   D. Minimizar el uso de recursos de cómputo.
+   ANSWER: B
+
+4. ¿Cuál es una característica de un agente basado en la utilidad?
+   A. Utiliza una función de utilidad de los estados para seleccionar acciones.
+   B. Aprende una función acción-valor (Q).
+   C. No tiene en cuenta las recompensas a largo plazo.
+   D. Siempre toma acciones aleatorias.
+   ANSWER: A
+
+5. ¿Qué técnica de aprendizaje por refuerzo no requiere un modelo del entorno?
+   A. Programación dinámica adaptativa (ADP).
+   B. Diferencia temporal (TD).
+   C. Aprendizaje supervisado.
+   D. Algoritmos genéticos.
+   ANSWER: B
+
+6. ¿Qué es la función Q en el aprendizaje por refuerzo?
+   A. Una función que estima el tiempo necesario para alcanzar el estado objetivo.
+   B. Una función que estima la utilidad de una acción en un estado determinado.
+   C. Una función que predice la próxima acción a tomar.
+   D. Una función que minimiza la penalización por estados no deseados.
+   ANSWER: B
+
+7. ¿Qué problema aborda el método de aprendizaje por refuerzo conocido como "barrido con prioridades"?
+   A. Reducir el número de acciones posibles.
+   B. Optimizar la política de exploración.
+   C. Mejorar la tasa de convergencia del aprendizaje.
+   D. Minimizar el uso de memoria.
+   ANSWER: C
+
+8. ¿Cuál de las siguientes es una aplicación de aprendizaje por refuerzo en robótica?
+   A. Aprender a clasificar imágenes.
+   B. Aprender a jugar al ajedrez.
+   C. Aprender a volar un helicóptero.
+   D. Aprender a traducir textos.
+   ANSWER: C
+
+9. ¿Qué representa la ecuación de Bellman en el aprendizaje por refuerzo?
+   A. La relación entre las recompensas inmediatas y las futuras.
+   B. La política que maximiza la exploración.
+   C. El modelo exacto del entorno.
+   D. La tasa de aprendizaje óptima.
+   ANSWER: A
+
+10. ¿Qué significa "diferencia temporal" en el contexto del aprendizaje por refuerzo?
+    A. La diferencia entre las recompensas inmediatas y las esperadas.
+    B. La actualización de la utilidad basada en la diferencia entre estados sucesivos.
+    C. La diferencia en el tiempo de cómputo entre dos algoritmos.
+    D. La diferencia en la política seguida por dos agentes.
+    ANSWER: B
+
+11. ¿Cuál es una ventaja de los métodos de búsqueda de políticas en el aprendizaje por refuerzo?
+    A. Pueden manejar grandes espacios de estado.
+    B. No requieren recompensas para aprender.
+    C. Siempre garantizan la convergencia a la política óptima.
+    D. Son más rápidos que los métodos basados en modelo.
+    ANSWER: A
+
+12. ¿Qué representa el término "aproximación de funciones" en el aprendizaje por refuerzo?
+    A. El uso de funciones lineales para representar el modelo de transición.
+    B. La utilización de redes neuronales u otras técnicas para generalizar sobre estados.
+    C. La estimación directa de las recompensas.
+    D. La simplificación de la política óptima.
+    ANSWER: B
+
+13. ¿Qué es la "exploración-explotación" en el contexto del aprendizaje por refuerzo?
+    A. Un dilema sobre si utilizar el conocimiento actual para maximizar recompensas o explorar para obtener más información.
+    B. Un método para reducir el número de estados en el entorno.
+    C. Una técnica para incrementar la tasa de aprendizaje.
+    D. Una estrategia para minimizar las penalizaciones en estados terminales.
+    ANSWER: A
+
+14. ¿Cuál es una limitación del aprendizaje-Q en entornos complejos?
+    A. No puede manejar estados continuos.
+    B. Requiere un modelo exacto del entorno.
+    C. No puede simular los resultados de las acciones.
+    D. Siempre converge a una solución subóptima.
+    ANSWER: C
+
+15. ¿Qué es la política de "epsilon-greedy" en el aprendizaje por refuerzo?
+    A. Una política que siempre elige la acción con la mayor recompensa esperada.
+    B. Una política que selecciona acciones aleatorias con probabilidad epsilon.
+    C. Una política que minimiza la penalización esperada.
+    D. Una política que maximiza la recompensa inmediata.
+    ANSWER: B
+
+16. ¿Qué significa "estado terminal" en un proceso de decisión de Markov?
+    A. Un estado donde el agente recibe la mayor recompensa.
+    B. Un estado desde el cual no se puede realizar más acciones.
+    C. Un estado que minimiza la penalización.
+    D. Un estado donde la política es indefinida.
+    ANSWER: B
+
+17. ¿Cuál es el objetivo principal del aprendizaje por refuerzo activo?
+    A. Aprender un modelo del entorno.
+    B. Decidir qué acciones tomar para maximizar la recompensa total.
+    C. Minimizar la exploración.
+    D. Aprender a evitar penalizaciones.
+    ANSWER: B
+
+18. ¿Qué técnica se utiliza en el algoritmo TD-Gammon?
+    A. Aprendizaje supervisado con ejemplos etiquetados.
+    B. Aprendizaje por refuerzo utilizando redes neuronales.
+    C. Programación dinámica adaptativa.
+    D. Optimización bayesiana.
+    ANSWER: B
+
+19. ¿Qué es una "función de valor" en el contexto del aprendizaje por refuerzo?
+    A. Una función que mide la probabilidad de transición entre estados.
+    B. Una función que estima la recompensa total esperada desde un estado.
+    C. Una función que calcula el costo de una acción.
+    D. Una función que define la política óptima.
+    ANSWER: B
+
+20. ¿Qué caracteriza a un entorno parcialmente observable?
+    A. El agente tiene acceso completo a toda la información relevante.
+    B. El agente debe tomar decisiones con información incompleta.
+    C. El entorno permanece constante.
+    D. El agente puede prever todas las posibles consecuencias de sus acciones.
+    ANSWER: B
+
+21. ¿Cuál es una aplicación del aprendizaje por refuerzo en el control de robots?
+    A. Clasificación de imágenes.
+    B. Optimización de rutas.
+    C. Control de equilibrio del péndulo invertido.
+    D. Traducción automática.
+    ANSWER: C
+
+22. ¿Qué representa la "tasa de aprendizaje" (alpha) en el aprendizaje por refuerzo?
+    A. La velocidad a la que se realizan las acciones.
+    B. La proporción en que se actualizan las estimaciones de valor.
+    C. La cantidad de exploración realizada por el agente.
+    D. La precisión de la función de recompensa.
+    ANSWER: B
+
+23. ¿Qué es el "control bang-bang" en el contexto del péndulo invertido?
+    A. Un método de control continuo de las acciones.
+    B. Un método de control con acciones discretas, típicamente izquierda o derecha.
+    C. Un método de control que minimiza el uso de energía.
+    D. Un método de control probabilístico.
+    ANSWER: B
+
+24. ¿Cuál es el principal desafío del aprendizaje por refuerzo en entornos con grandes espacios de estado?
+    A. La falta de recompensas negativas.
+    B. La necesidad de aproximación de funciones para generalizar.
+    C. La imposibilidad de explorar todas las acciones posibles.
+    D. La dificultad de definir políticas determinísticas.
+    ANSWER: B
+
+25. ¿Qué representa el "descuento de recompensas" en el aprendizaje por refuerzo?
+    A. La penalización aplicada a las recomp
+
+ensas futuras.
+    B. La preferencia por recompensas inmediatas sobre las futuras.
+    C. La estimación de la duración del aprendizaje.
+    D. La tasa de actualización de la política.
+    ANSWER: B
+
+26. ¿Qué es el aprendizaje por refuerzo pasivo?
+    A. Aprender una política mientras se interactúa activamente con el entorno.
+    B. Aprender la utilidad de los estados sin modificar la política del agente.
+    C. Maximizar la exploración del entorno.
+    D. Minimizar la penalización esperada.
+    ANSWER: B
+
+27. ¿Qué es la "programación dinámica adaptativa" (ADP) en el aprendizaje por refuerzo?
+    A. Un método que utiliza un modelo estimado del entorno para actualizar las utilidades.
+    B. Un método que aplica recompensas directamente a las acciones.
+    C. Un método que evita la exploración del entorno.
+    D. Un método que maximiza la recompensa inmediata.
+    ANSWER: A
+
+28. ¿Cuál es una ventaja de los métodos de diferencia temporal (TD) en el aprendizaje por refuerzo?
+    A. No requieren un modelo del entorno.
+    B. Siempre encuentran la política óptima.
+    C. Minimizan el uso de memoria.
+    D. No requieren recompensas para aprender.
+    ANSWER: A
+
+29. ¿Qué significa "exploración-explotación" en el aprendizaje por refuerzo?
+    A. Un dilema sobre si utilizar el conocimiento actual para maximizar recompensas o explorar para obtener más información.
+    B. Un método para reducir el número de estados en el entorno.
+    C. Una técnica para incrementar la tasa de aprendizaje.
+    D. Una estrategia para minimizar las penalizaciones en estados terminales.
+    ANSWER: A
+
+30. ¿Qué es un "agente voraz" en el contexto del aprendizaje por refuerzo?
+    A. Un agente que maximiza la exploración del entorno.
+    B. Un agente que sigue la política óptima para el modelo aprendido sin explorar otras opciones.
+    C. Un agente que minimiza el tiempo de cómputo.
+    D. Un agente que siempre toma acciones aleatorias.
+    ANSWER: B
